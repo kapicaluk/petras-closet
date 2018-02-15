@@ -9,11 +9,18 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 70px;
   padding: 20px;
   color: white;
 }
-
+.App-header-nav {
+  list-style: none;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.App-header-nav li {
+  margin-right: 1em;
+}
 .App-title {
   font-size: 1.5em;
 }

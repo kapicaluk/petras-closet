@@ -34,7 +34,7 @@ export default class Listings extends Component {
         <div className="search-container">
           <input
             className="search-input"
-            placeholder="Enter your search term..."
+            placeholder="Search Petra's clothes"
             type="search"
             value=""
             name="search"
