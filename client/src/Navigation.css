@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #2C363F;
+  height: 70px;
+  padding: 20px;
+  color: #FFD1DC;
+}
+
+.App-header a {
+  color: #CCDBDC;
+  text-decoration: none;
+}
+
+.App-header a:hover {
+  color: #FFD1DC;
+  font-weight: bold;
+  border-bottom: 1px solid;
+}
+
+.App-header-nav {
+  list-style: none;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.App-header-nav li {
+  margin-right: 1em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
